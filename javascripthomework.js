@@ -130,6 +130,15 @@ var accounts = [
 
 // Write functions for the following tasks!
 // 7.1 Calculate the total cash in accounts
+
+// function totalCash() {
+//   var total = 0;
+//   for(var account in accounts) {
+//     total += account.amount;
+//   }
+//   console.log(total);
+// }
+
 // 7.2 Find the amount of money in the account with the largest balance
 // 7.3 Find the name of the account with the smallest balance
 // 7.4 Calculate the average bank account value
